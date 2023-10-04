@@ -31,10 +31,8 @@ Data Analysis of Robot Development Recruitment Market
 <br>
 
 ![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/9716f8cf-b955-4275-b643-dbc3dac99088)
-
 <br>
 <br>
-
 #### KoNLPy를 이용한 직무 키워드 추출 및 NLP(Natural Language Processing, 자연어처리)
 - 4가지 컬럼 분석: 채용포지션, 담당업무, 지원자격, 우대사항
 - 쉽고 간결한 한국어 정보처리 파이썬 패키지
