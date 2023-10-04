@@ -20,7 +20,7 @@ Data Analysis of Robot Development Recruitment Market
 
 ---
 ## 03. 프로젝트 기술
-![Screenshot from 2023-10-04 16-10-07](https://github.com/changmi-kim/merge_project/assets/141194237/1c702a63-d0ee-4133-b884-034b3b286031)
+![Screenshot from 2023-10-04 16-10-07](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/3671598a-1cd0-447f-8583-e0e31232449c)
 
 ---
 ## 04. 데이터수집
