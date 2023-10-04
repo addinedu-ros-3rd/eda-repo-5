@@ -28,11 +28,9 @@ Data Analysis of Robot Development Recruitment Market
 ### 05-3. 필요한 경력 및 학력
 ### 05-4. 필요한 역량
 ### 05-5. 채용포지션, 담당업무, 지원자격, 우대사항
-
-  
+<br>
 ![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/9716f8cf-b955-4275-b643-dbc3dac99088)
-
-  
+<br>
 ![Screenshot from 2023-10-04 17-05-48](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/be711980-9bd4-4a63-b5d7-1b7fdf714ad7)
 
   
