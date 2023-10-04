@@ -41,15 +41,15 @@ Data Analysis of Robot Development Recruitment Market
 3. 어디 살면 좀 편하게 출근할 수 있을까
 4. 이직은 언제쯤 해야 가능성이 높을까
   
-![Screenshot from 2023-10-04 16-29-43](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/5b12ab89-2bef-4ed1-a44e-219c3c2fb12e)
+![Screenshot from 2023-10-04 17-04-00](https://github.com/addinedu-amr-4th/eda-repo-5/assets/55674360/4646287a-b4c0-4538-a4b4-87e349caa0de)
 
-![Screenshot from 2023-10-04 16-30-10](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/39444e8a-3603-4bf6-8298-335224d11186)
+![Screenshot from 2023-10-04 17-04-04](https://github.com/addinedu-amr-4th/eda-repo-5/assets/55674360/5d7c8d49-4d0c-42f1-8fba-b25bc70c86e1)
 
-![Screenshot from 2023-10-04 16-30-27](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/71c42c73-564b-42bd-9e39-03b5e3dc9a18)
+![Screenshot from 2023-10-04 17-04-07](https://github.com/addinedu-amr-4th/eda-repo-5/assets/55674360/45f499ea-be06-4600-af0f-271cfb7cad6d)
 
-![Screenshot from 2023-10-04 16-30-44](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/bbed3681-7a52-4991-92cd-1329b567da94)
+![Screenshot from 2023-10-04 17-04-10](https://github.com/addinedu-amr-4th/eda-repo-5/assets/55674360/6dfb2bb0-df3f-435c-86f3-fc23d48a91b8)
 
-![Screenshot from 2023-10-04 16-31-15](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/2867ea77-23a3-4fb0-b600-0eeb9bc13bc9)
+![Screenshot from 2023-10-04 17-04-14](https://github.com/addinedu-amr-4th/eda-repo-5/assets/55674360/510b1463-aa87-404d-82a9-b732f1a3a552)
 
 ---
 ## +) 발표자료에 관하여
