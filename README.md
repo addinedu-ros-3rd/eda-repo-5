@@ -51,10 +51,8 @@ Data Analysis of Robot Development Recruitment Market
 - KaKao Brain에서 개발한  PORORO 자연어처리 라이브러리 시도  
 
 ![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/db252f84-7d24-4818-a813-a5f0b81cfba5)
-
 <br>
 <br>
-
 ![Screenshot from 2023-10-04 17-08-29](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/3d9cda86-1648-4695-9ddb-d8438d6c5261)
 
 <br>
