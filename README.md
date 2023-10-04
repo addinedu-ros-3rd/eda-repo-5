@@ -40,7 +40,8 @@ Data Analysis of Robot Development Recruitment Market
 - 쉽고 간결한 한국어 정보처리 파이썬 패키지
 - Okt Class 여러 형태소 분석기를 호출하여 사용
 - nouns(): 텍스트에서 명사만 반환하는 함수
-- pos(): 텍스트를 형태소 단위로 나눈 후, 각 품사까지 태깅하여 반환하는 함수.  
+- pos(): 텍스트를 형태소 단위로 나눈 후, 각 품사까지 태깅하여 반환하는 함수.
+
 ![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/3f0c930b-647e-41a6-94f4-7be65cc42e2c)
 
 <br>
