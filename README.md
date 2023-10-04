@@ -29,44 +29,68 @@ Data Analysis of Robot Development Recruitment Market
 ### 05-4. 필요한 역량
 ### 05-5. 채용포지션, 담당업무, 지원자격, 우대사항
 <br>
+<br>
 
 ![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/9716f8cf-b955-4275-b643-dbc3dac99088)
 
 <br>
+<br>
 
 ![Screenshot from 2023-10-04 17-05-48](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/be711980-9bd4-4a63-b5d7-1b7fdf714ad7)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-08-12](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/21bd7630-ecd1-444f-b26e-7ee95abb35c9)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-08-29](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/3d9cda86-1648-4695-9ddb-d8438d6c5261)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-08-47](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/1d4be375-a94f-470a-b6ef-9944f0d02b2e)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-09-08](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/1e88d3c2-4836-4fc3-b68f-b85a6321a0e8)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-09-51](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/419e17a7-e083-4e61-8567-1de65203fc73)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-10-08](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/5416b33b-f045-4d57-a64a-be8c7e7c4bc3)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-10-37](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/18937b17-7463-4b7b-9575-e091c8aa8ca6)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-10-58](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/fdfe3230-5d14-46b3-8e99-153e2bc778ef)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-11-28](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/21a6473a-e578-40bd-95fc-40d1552bf39e)
 
-  
+<br>
+<br>
+
 ![Screenshot from 2023-10-04 17-11-45](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/39511d82-0052-4650-a0db-ced3b12f4e34)
 
-  
+<br>
+<br>
+
 ### 05-6. 위치 시각화
 
 ---
