@@ -40,9 +40,19 @@ Data Analysis of Robot Development Recruitment Market
 2. 어떤 분야의 로봇을 공부해야할까
 3. 어디 살면 좀 편하게 출근할 수 있을까
 4. 이직은 언제쯤 해야 가능성이 높을까
+5. 
 ![Screenshot from 2023-10-04 16-29-43](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/5b12ab89-2bef-4ed1-a44e-219c3c2fb12e)
+
 ![Screenshot from 2023-10-04 16-30-10](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/39444e8a-3603-4bf6-8298-335224d11186)
+
 ![Screenshot from 2023-10-04 16-30-27](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/71c42c73-564b-42bd-9e39-03b5e3dc9a18)
+
 ![Screenshot from 2023-10-04 16-30-44](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/bbed3681-7a52-4991-92cd-1329b567da94)
+
 ![Screenshot from 2023-10-04 16-31-15](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/2867ea77-23a3-4fb0-b600-0eeb9bc13bc9)
 
+---
+## +) 발표자료에 관하여
+발표자료의 경우 용량이 커 아래 링크를 통해 참고해주시면 정말 감사하겠습니다.
+- 구글드라이브 링크 첨부 예정
+- EDA 프로젝트를 마무리하며 고생해주신 팀장님과 팀원님들께 감사인사 전합니다.
