@@ -28,16 +28,17 @@ Data Analysis of Robot Development Recruitment Market
 ### 05-3. 필요한 경력 및 학력
 ### 05-4. 필요한 역량
 ### 05-5. 채용포지션, 담당업무, 지원자격, 우대사항
+![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/9716f8cf-b955-4275-b643-dbc3dac99088)
+
 ![Screenshot from 2023-10-04 17-05-48](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/be711980-9bd4-4a63-b5d7-1b7fdf714ad7)
 
 ![Screenshot from 2023-10-04 17-08-12](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/21bd7630-ecd1-444f-b26e-7ee95abb35c9)
 
 ![Screenshot from 2023-10-04 17-08-29](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/3d9cda86-1648-4695-9ddb-d8438d6c5261)
 
-![Screenshot from 2023-10-04 17-08-47](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/00137d58-8846-42
+![Screenshot from 2023-10-04 17-08-47](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/1d4be375-a94f-470a-b6ef-9944f0d02b2e)
 
 ![Screenshot from 2023-10-04 17-09-08](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/1e88d3c2-4836-4fc3-b68f-b85a6321a0e8)
-5d-a5b2-5103040b6c66)
 
 ![Screenshot from 2023-10-04 17-09-51](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/419e17a7-e083-4e61-8567-1de65203fc73)
 
