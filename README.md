@@ -1,8 +1,7 @@
 # 🤖 로봇 개발 채용시장 분석
 Data Analysis of Robot Development Recruitment Market
 
-![Screenshot from 2023-10-04 17-15-46](https://github.com/addinedu-amr-4th/eda-repo-5/assets/55674360/83d5e105-379c-4c5c-9aed-b12ada59e568)
-
+![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/a36a0571-0dba-4f92-995e-5386470f9d0a)
 
 ---
 ## 01. 🏁 프로젝트 소개
