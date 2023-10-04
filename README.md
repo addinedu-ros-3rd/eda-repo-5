@@ -29,7 +29,6 @@ Data Analysis of Robot Development Recruitment Market
 ### 05-5. 채용포지션, 담당업무, 지원자격, 우대사항
 <br>
 <br>
-
 ![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/9716f8cf-b955-4275-b643-dbc3dac99088)
 <br>
 <br>
@@ -51,6 +50,7 @@ Data Analysis of Robot Development Recruitment Market
 - KaKao Brain에서 개발한  PORORO 자연어처리 라이브러리 시도  
 
 ![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/db252f84-7d24-4818-a813-a5f0b81cfba5)
+
 <br>
 <br>
 
