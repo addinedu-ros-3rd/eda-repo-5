@@ -96,6 +96,14 @@ Data Analysis of Robot Development Recruitment Market
 
 ![Screenshot from 2023-10-04 17-35-12](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/bc33984e-0a72-4021-83dd-6bdf70b080b1)
 
+![Screenshot from 2023-10-04 17-39-32](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/1a171c58-9006-42d3-8b1c-d69f659ae6d0)
+
+![Screenshot from 2023-10-04 17-39-38](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/d957a114-8734-44bf-bb12-60bb86461925)
+
+![Screenshot from 2023-10-04 17-40-24](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/cbb4ae4b-9560-4696-aab7-1ac261df8176)
+
+
+
 ---
 ## 06. 💡 결론
 1. 무엇을 준비하고 공부해야하는가
