@@ -5,7 +5,8 @@ EDA 프로젝트 5조 저장소. 로봇 개발 채용시장 분석
 # 로봇 개발 채용시장 분석
 Data Analysis of Robot Development Recruitment Market
 
-![Screenshot from 2023-10-04 16-06-35](https://github.com/changmi-kim/merge_project/assets/141194237/e8f88880-ac6f-4773-bd5e-38672cbd4dc0)
+![Screenshot from 2023-10-04 16-17-40](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146153568/0d90d8cb-8252-46b8-af89-3a048c4e7e98)
+
 
 ---
 ## 01. 프로젝트 소개
