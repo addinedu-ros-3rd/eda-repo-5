@@ -2,7 +2,7 @@
 EDA 프로젝트 5조 저장소. 로봇 개발 채용시장 분석
 
 ---
-# 로봇 개발 채용시장 분석
+# 🤖 로봇 개발 채용시장 분석
 Data Analysis of Robot Development Recruitment Market
 
 ![Screenshot from 2023-10-04 16-17-40](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146153568/0d90d8cb-8252-46b8-af89-3a048c4e7e98)
@@ -13,7 +13,7 @@ Data Analysis of Robot Development Recruitment Market
 잡코리아, 사람인 등 구직 사이트에서 우리에게 필요한 역량 및 업계 동향 등 필요한 정보들을 분석
 
 ---
-## 02. 프로젝트 멤버
+## 02. 🫂 프로젝트 멤버
 - 팀명: 오란씨
 - 팀장: 이충한
 - 팀원: 강병철 김창미 이수민
@@ -35,7 +35,7 @@ Data Analysis of Robot Development Recruitment Market
 ### 05-6. 위치 시각화
 
 ---
-## 06. 결론
+## 06. 💡 결론
 1. 무엇을 준비하고 공부해야하는가
 2. 어떤 분야의 로봇을 공부해야할까
 3. 어디 살면 좀 편하게 출근할 수 있을까
