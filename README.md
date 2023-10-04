@@ -44,8 +44,14 @@ Data Analysis of Robot Development Recruitment Market
 
 <br>
 <br>
+#### KoNLPY를 채택한 이유
+● Tesseract 라이브러리를 사용하여 OCR(광학 문자 판독, 이미지에서 텍스트 추출) 구현 시도
+● opencv로 이미지 전처리 하여도 인식률 저하
+  - 필터(Grayscale, Threshold, GaussianBlur, Canny Edge 검출) 사용
+  - ROI 설정하여 cropped된 이미지 사용
+ ● KaKao Brain에서 개발한  PORORO 자연어처리 라이브러리 시도
 
-![Screenshot from 2023-10-04 17-08-12](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/21bd7630-ecd1-444f-b26e-7ee95abb35c9)
+![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/db252f84-7d24-4818-a813-a5f0b81cfba5)
 
 <br>
 <br>
