@@ -111,7 +111,27 @@ Data Analysis of Robot Development Recruitment Market
 
 ![Screenshot from 2023-10-04 17-40-24](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/cbb4ae4b-9560-4696-aab7-1ac261df8176)
 
+![Screenshot from 2023-10-04 17-45-00](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/98f64e85-326e-4c89-a03a-0ad0f380718c)
 
+![Screenshot from 2023-10-04 17-45-19](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/27fa663c-aa77-41d1-aeed-9500059de827)
+
+![Screenshot from 2023-10-04 17-45-22](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/9ee72936-ef5a-4031-a701-b335df267a8e)
+
+![Screenshot from 2023-10-04 17-45-29](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/31f9e605-c2c3-4546-b9ee-ecfe32651221)
+
+![Screenshot from 2023-10-04 17-45-35](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/d165ce66-b1e9-4ef7-a4f7-27597227c903)
+
+![Screenshot from 2023-10-04 17-45-38](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/15f621d4-a279-4ce1-8b64-3e899083e858)
+
+![Screenshot from 2023-10-04 17-45-41](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/b8be70e2-e147-48f5-9cfd-354829d4213c)
+
+![Screenshot from 2023-10-04 17-45-43](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/83ed9050-11d7-4813-9389-7028f789b6f0)
+
+![Screenshot from 2023-10-04 17-47-00](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/2b4658b5-9592-4247-b159-780ea1d4bb27)
+
+![Screenshot from 2023-10-04 17-47-27](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/1cfc3bb0-2339-4693-915b-1c826c8811c8)
+
+![Screenshot from 2023-10-04 17-47-50](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/983410cf-d6e9-4eba-a6a2-7544354cae2a)
 
 ---
 ## 06. 💡 결론
