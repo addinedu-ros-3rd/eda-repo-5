@@ -9,7 +9,7 @@ Data Analysis of Robot Development Recruitment Market
 
 
 ---
-## 01. 프로젝트 소개
+## 01. 🔎 프로젝트 소개
 잡코리아, 사람인 등 구직 사이트에서 우리에게 필요한 역량 및 업계 동향 등 필요한 정보들을 분석
 
 ---
@@ -19,7 +19,7 @@ Data Analysis of Robot Development Recruitment Market
 - 팀원: 강병철 김창미 이수민
 
 ---
-## 03. 프로젝트 기술
+## 03. 📝 프로젝트 기술
 ![Screenshot from 2023-10-04 16-10-07](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/3671598a-1cd0-447f-8583-e0e31232449c)
 
 ---
