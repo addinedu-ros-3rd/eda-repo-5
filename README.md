@@ -92,6 +92,10 @@ Data Analysis of Robot Development Recruitment Market
 
 ### 05-6. 위치 시각화
 
+![Screenshot from 2023-10-04 17-35-09](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/a132baf9-4597-4ab8-9c3e-756011eafe38)
+
+![Screenshot from 2023-10-04 17-35-12](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/bc33984e-0a72-4021-83dd-6bdf70b080b1)
+
 ---
 ## 06. 💡 결론
 1. 무엇을 준비하고 공부해야하는가
