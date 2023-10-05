@@ -40,7 +40,7 @@
 - nouns(): 텍스트에서 명사만 반환하는 함수
 - pos(): 텍스트를 형태소 단위로 나눈 후, 각 품사까지 태깅하여 반환하는 함수.
 
-![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/3f0c930b-647e-41a6-94f4-7be65cc42e2c)  
+![Screenshot from 2023-10-05 09-35-26](https://github.com/addinedu-amr-4th/eda-repo-5/assets/55674360/2377d9f2-7ecd-43bd-84c6-997d524ebc69)
 
 <br>  
 <br>  
@@ -52,7 +52,8 @@
   - ROI 설정하여 cropped된 이미지 사용  
 - KaKao Brain에서 개발한  PORORO 자연어처리 라이브러리 시도  
 
-![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/db252f84-7d24-4818-a813-a5f0b81cfba5)
+![Screenshot from 2023-10-05 09-35-49](https://github.com/addinedu-amr-4th/eda-repo-5/assets/55674360/54ab90ab-2832-4c87-9407-550bb8bf6300)
+
 
 <br>
 <br>
