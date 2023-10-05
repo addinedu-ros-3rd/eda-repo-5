@@ -155,7 +155,4 @@
 ![Screenshot from 2023-10-04 17-04-14](https://github.com/addinedu-amr-4th/eda-repo-5/assets/55674360/510b1463-aa87-404d-82a9-b732f1a3a552)
 
 ---
-## +) 발표자료에 관하여
-발표자료의 경우 용량이 커 아래 링크를 통해 참고해주시면 정말 감사하겠습니다.
-- [발표자료](https://drive.google.com/file/d/1eUErhYoF1gxg7YmIkKDJOk8Hm3EWbBAk/view?usp=sharing)
-- EDA 프로젝트를 마무리하며 고생해주신 팀장님과 팀원님들께 감사인사 전합니다.
+
