@@ -30,7 +30,6 @@
 ### 05-5. 채용포지션, 담당업무, 지원자격, 우대사항
 
 <br>
-<br>
 
 ![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/141194237/9716f8cf-b955-4275-b643-dbc3dac99088)
 
