@@ -137,6 +137,7 @@
 
 ![Screenshot from 2023-10-04 17-47-50](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/983410cf-d6e9-4eba-a6a2-7544354cae2a)
 
+
 ---
 ## 06. 💡 결론
 1. 무엇을 준비하고 공부해야하는가
