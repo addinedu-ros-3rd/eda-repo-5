@@ -137,6 +137,10 @@
 
 ![Screenshot from 2023-10-04 17-47-50](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/983410cf-d6e9-4eba-a6a2-7544354cae2a)
 
+![image](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/b6af5932-7f9f-4294-9e25-b31a4761eca2)
+
+![Screenshot from 2023-10-12 18-58-22](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/19e7d049-5e82-49b6-9316-6278b997f768)
+
 
 ---
 ## 06. 💡 결론
