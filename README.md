@@ -153,6 +153,18 @@
 
 ![Screenshot from 2023-10-12 19-04-10](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/ed6ae383-7e87-4e7c-9306-0fd4ea17cc64)
 
+![Screenshot from 2023-10-12 19-05-04](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/ee5007c0-4d89-4c95-95f4-d6c5775239f3)
+
+![Screenshot from 2023-10-12 19-06-43](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/e869beca-9ef5-45b4-82de-5e568da34338)
+
+![Screenshot from 2023-10-12 19-07-15](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/5219aea8-5223-440f-a82d-5953a0d75fa3)
+
+![Screenshot from 2023-10-12 19-07-55](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/e491ceff-8e59-4041-b591-a177be758ad8)
+
+![Screenshot from 2023-10-12 19-08-56](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/5d3541f1-436d-4b34-9756-81fa7a9f610a)
+
+![Screenshot from 2023-10-12 19-09-48](https://github.com/addinedu-amr-4th/eda-repo-5/assets/146154079/8e21ca0c-209a-4e8d-82d6-e3ccd53933db)
+
 ---
 ## 06. 💡 결론
 1. 무엇을 준비하고 공부해야하는가
